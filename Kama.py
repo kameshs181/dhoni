@@ -1,2 +1,2 @@
 import streamlit as st
-st.title("thala for reason")
+st.title("Thala for reason")
